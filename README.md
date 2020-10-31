@@ -1,2 +1,3 @@
 # The-Covid-Tracker
-This is a chatbot made using python and the telegram API , which updates all the statistics of the most affected countries.
+This is a simple chatbot that I made using telegram's API and python. This amazing python application gives updates of the 
+COVID-19 stats state-wise. 
