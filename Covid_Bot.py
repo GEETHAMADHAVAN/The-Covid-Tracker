@@ -50,6 +50,7 @@ def start(update, context):
     context.bot.send_message(chat_id=update.effective_chat.id, text=f"Cases Overview : {tot}")
     context.bot.send_message(chat_id=update.effective_chat.id, text="---XXXX---")
     context.bot.send_message(chat_id=update.effective_chat.id, text="Next Notification within 30 minutes !")
+    context.bot.send_message(chat_id=update.effective_chat.id, text="Take care ! BYE BYE :) ")
 
 from telegram.ext import CommandHandler
 start_handler = CommandHandler('start', start)
