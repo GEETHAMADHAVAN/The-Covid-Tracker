@@ -25,7 +25,7 @@ ra=states.getdata('Rajasthan')
 pu=states.getdata('Punjab')
 od=states.getdata('Odisha')
 mp=states.getdata('Madhya Pradesh')
-de=states.getdata('New Delhi')
+de=states.getdata('Delhi')
 tot=states.getdata('Total')
 
 def start(update, context):
